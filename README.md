@@ -1,6 +1,6 @@
-# Investigating non lexical markers of the language of schizophrenia inspontaneous conversations
+# Investigating non lexical markers of the language of schizophrenia in spontaneous conversations
 
-This is the source code for the paper "Investigating non lexical markers of the language of schizophrenia inspontaneous conversations" (CODI 2021, EMNLP workshop).
+This is the source code for the paper "Investigating non lexical markers of the language of schizophrenia in spontaneous conversations" (CODI 2021, EMNLP workshop).
 
 ### Dataset SLAM
 Due to the confidentiality of dataset, we don't release the data publically. 
